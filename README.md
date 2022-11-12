@@ -2,9 +2,9 @@
 Tkinter ve selenium ile aynı anda 2 hesap ile istediğiniz kadar tweet atabilen twitter botu.
 
 ## Preview
-<img src="https://github.com/ravgast/twitter-bot-python/blob/master/1.png"/>
-<img src="https://github.com/ravgast/twitter-bot-python/blob/master/2.png"/>
-<img src="https://github.com/ravgast/twitter-bot-python/blob/master/3.png"/>
+<img src="https://github.com/Ravgast/Twitter-Bot-Python/blob/main/1.png"/>
+<img src="https://github.com/Ravgast/Twitter-Bot-Python/blob/main/2.png"/>
+<img src="https://github.com/Ravgast/Twitter-Bot-Python/blob/main/3.png"/>
 
 ## Installation
 1. Tümünü yükleyin:
